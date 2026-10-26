@@ -9,16 +9,16 @@ Ce projet implémente un modèle de logit conditionnel avec pondération par èr
 - `prediction.py` : Exécute la calibration par température, le bootstrap
 
 ## Résultat 
-=== CLASSEMENT ===
- rang                   Nom                Club
-    1          Lamine Yamal        FC Barcelone
-    2          Lionel Messi         Inter Miami
-    3         Kylian Mbappé         Real Madrid
-    4      Lautaro Martínez         Inter Milan
-    5               Vitinha Paris Saint-Germain
-    6            Harry Kane       Bayern Munich
-    7       Ousmane Dembélé Paris Saint-Germain
-    8           Fabián Ruiz Paris Saint-Germain
-    9 Khvicha Kvaratskhelia Paris Saint-Germain
-   10        Erling Haaland     Manchester City
+| Rang | Joueur | Club |
+| :---: | :--- | :--- |
+| **1** | Lamine Yamal | FC Barcelone |
+| **2** | Lionel Messi | Inter Miami |
+| **3** | Kylian Mbappé | Real Madrid |
+| **4** | Lautaro Martínez | Inter Milan |
+| **5** | Vitinha | Paris Saint-Germain |
+| **6** | Harry Kane | Bayern Munich |
+| **7** | Ousmane Dembélé | Paris Saint-Germain |
+| **8** | Fabián Ruiz | Paris Saint-Germain |
+| **9** | Khvicha Kvaratskhelia | Paris Saint-Germain |
+| **10** | Erling Haaland | Manchester City |
    
